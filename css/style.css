@@ -323,7 +323,7 @@ span.left{
 		-moz-transition: .5s all;
 	}
 	.service-image:hover div.camera{
-		background:url("../images/icons.png") no-repeat 0px -35px;
+		background:url("../images/ideah.png") no-repeat;
 		transition: .5s all;
 		-webkit-transition: .5s all;
 		-o-transition: .5s all;
@@ -331,7 +331,7 @@ span.left{
 		-moz-transition: .5s all;
 	}
 	.service-image:hover div.paint{
-		background:url("../images/icons.png") no-repeat -41px -36px;
+		background:url("../images/gifth.png") no-repeat;
 		transition: .5s all;
 		-webkit-transition: .5s all;
 		-o-transition: .5s all;
@@ -339,7 +339,7 @@ span.left{
 		-moz-transition: .5s all;
 		}
 	.service-image:hover div.video{
-		background:url("../images/icons.png") no-repeat -79px -33px;
+		background:url("../images/delh.png") no-repeat;
 		transition: .5s all;
 		-webkit-transition: .5s all;
 		-o-transition: .5s all;
@@ -347,7 +347,7 @@ span.left{
 		-moz-transition: .5s all;
 		}
 	.service-image:hover div.web-design{
-		background:url("../images/icons.png") no-repeat -117px -33px;
+		background:url("../images/workh.png") no-repeat;
 		transition: .5s all;
 		-webkit-transition: .5s all;
 		-o-transition: .5s all;
@@ -385,30 +385,30 @@ span.left{
 	margin: 0 auto;
 	}
 .camera {
-	background:url("../images/icons.png") no-repeat 0px 0px;
-	width:40px;
-	height:34px;
+	background:url("../images/idea.png") no-repeat;
+	width:50px;
+	height:46px;
 	display:block;
 	margin:0 auto;
 	}
 .paint {
-	background:url("../images/icons.png") no-repeat -41px -1px;
-	width:40px;
-	height:34px;
+	background:url("../images/gift.png") no-repeat;
+	width:50px;
+	height:46px;
 	display:block;
 	margin:0 auto;
 	}
 .video {
-	background:url("../images/icons.png") no-repeat -79px 0px;
-	width:40px;
-	height:34px;
+	background:url("../images/del.png") no-repeat ;
+	width:50px;
+	height:46px;
 	display:block;
 	margin:0 auto;
 	}
 .web-design {
-	background:url("../images/icons.png") no-repeat -117px 0px;
-	width:40px;
-	height:34px;
+	background:url("../images/work.png") no-repeat;
+	width:50px;
+	height:46px;
 	display:block;
 	margin:0 auto;
 	}
