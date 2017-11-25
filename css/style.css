@@ -20,7 +20,7 @@ body{
 .logo{
 	float:left;
 	width:12%;
-	margin-top: 29px;
+	margin-top: 18px;
 	}
 .logo h1{
 	margin:0;
@@ -67,9 +67,7 @@ body{
 	-moz-transition: .5s all;
 	}
 .banner-info{
-	position:absolute;
-	top:51%;
-	left:25%;
+	margin-top: 10%;
 	}
 .banner-info h1{
 	margin: 0 auto;
@@ -266,6 +264,13 @@ span.left{
 	-moz-transition: .5s all;
 	}
 /*-- services --*/
+.services-grids {
+	display: flex;
+	flex-wrap: wrap;
+}
+.service-grid {
+	display: flex;
+}
 .services {
 	padding: 52px 0;
 	background:#fafafa;
@@ -502,7 +507,8 @@ textarea.text {
 	font-size: 16px;
 	outline: none;
 	cursor: pointer;
-	margin-left: 23em;
+	width: 96%;
+	/*margin-left: 23em;*/
 	background: #39c9da;
 	font-weight: 700;
 	border-radius: 4px;
@@ -612,16 +618,18 @@ textarea.text {
 		}
 	.ser-info p {
 		overflow:hidden;
-		height:93px;
+		height: 100%;
 		}
 	.border {
 		width: 26%;
 		}
 	.contact-right input[type="text"] {
 		margin: 0 15px 30px 0;
+		width: 95%;
+
 		}
 	.contact-right input[type=submit] {
-		margin-left: 17em;
+		/*margin-left: 17em;*/
 		}
 	.about-info p {
 		margin: 18px auto 28px auto;
@@ -756,7 +764,8 @@ textarea.text {
 		width: 95%;
 		}
 	.contact-right input[type=submit] {
-		margin-left: 32em;
+		/*margin-left: 32em;*/
+		width: 95%;
 		}
 }
 @media (max-width: 640px){
@@ -864,7 +873,8 @@ textarea.text {
 	.contact-right input[type=submit] {
 		padding: 12px 22px;
 		font-size: 13px;
-		margin-left: 34em;
+		width: 95%;
+		/*margin-left: 34em;*/
 		}
 	
 }
@@ -980,7 +990,7 @@ textarea.text {
 		}
 	.service-grid {
 		float: left;
-		width: 50%;
+		width: 100%;
 		margin: 0 auto;
 		}
 	.ser-info p {
@@ -1013,8 +1023,9 @@ textarea.text {
 		width: 100%;
 		}
 	.contact-right input[type=submit] {
-		margin-left: 24.7em;
+		/*margin-left: 24.7em;*/
 		padding: 12px 15px;
+		width: 100%;
 		}
 	.contact-left h2 {
 		font-size: 18px;
@@ -1131,7 +1142,7 @@ textarea.text {
 		padding-top:15px;
 		}
 	.contact-right input[type=submit] {
-		margin-left: 12.4em;
+		/*margin-left: 12.4em;*/
 		padding: 10px 15px;
 		}
 }
