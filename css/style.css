@@ -637,7 +637,7 @@ textarea.text {
 	span.para {
 		padding: 14px 0;
 		overflow: hidden;
-		height: 77px;
+		height: 100%;
 		}
 	.about-right p {
 		padding-top: 14px;
@@ -820,7 +820,7 @@ textarea.text {
 		left:28%;
 		}
 	.download a {
-		font-size: 12px;
+		font-size: 18px;
 		padding: 12px 22px;
 		}
 	.getstart a {
@@ -868,11 +868,11 @@ textarea.text {
 		font-size: 19px;
 		}
 	.contact-left h3 {
-		font-size: 20px;
+		font-size: 30px;
 		}
 	.contact-right input[type=submit] {
 		padding: 12px 22px;
-		font-size: 13px;
+		font-size: 18px;
 		width: 95%;
 		/*margin-left: 34em;*/
 		}
@@ -901,14 +901,14 @@ textarea.text {
 		font-size: 19px;
 		}
 	.download a {
-		padding: 12px 14px;
+		padding: 14px 100px;
 		}
 	.about-info h2 {
-		font-size: 20px;
+		font-size: 30px;
 		}
 	.about-info p {
 		overflow: hidden;
-		height: 42px;
+		height: 100%;
 		}
 	.about-left {
 		width: 100%;
@@ -927,25 +927,25 @@ textarea.text {
 		display: block;
 		}
 	.border {
-		width: 26%;
+		width: 52%;
 		}
 	.about-right p {
 		overflow: hidden;
-		height: 190px;
+		height: 100%;
 		}
 	.getstart a {
-		font-size: 12px;
-		padding: 12px 14px;
+		font-size: 18px;
+		padding: 12px 100px;
 		}
 	.getstart {
 		margin: 22px 0 16px 0;
 		}
 	.portfolio-info h2 {
-		font-size: 20px;
+		font-size: 30px;
 		}
 	.portfolio-info p {
 		overflow: hidden;
-		height: 42px;
+		height: 100%;
 		width: 68%;
 		}
 	.portfolio-grid {
@@ -981,7 +981,7 @@ textarea.text {
 		padding-bottom: 0px;
 		}
 	.service-info h2 {
-		font-size: 20px;
+		font-size: 30px;
 		}
 	.service-info p {
 		overflow: hidden;
@@ -995,7 +995,7 @@ textarea.text {
 		}
 	.ser-info p {
 		overflow: hidden;
-		height: 77px;
+		height: 100%;
 		}
 	.more {
 		padding: 13px 0;
@@ -1005,7 +1005,7 @@ textarea.text {
 		padding: 9px 13px;
 		}
 	.contact-info h2 {
-		font-size: 20px;
+		font-size: 30px;
 		}
 	.contact-info p {
 		overflow: hidden;
@@ -1028,7 +1028,7 @@ textarea.text {
 		width: 100%;
 		}
 	.contact-left h2 {
-		font-size: 18px;
+		font-size: 28px;
 		}
 }
 @media (max-width: 320px){
